@@ -2,7 +2,7 @@ import { Component } from 'angular2/core';
 
 @Component({
     selector: 'sm-app',
-    templateUrl: 'app.component.html',
+    templateUrl: 'app/app.component.html',
 })
 
 export class AppComponent{
